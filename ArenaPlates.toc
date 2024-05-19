@@ -1,0 +1,7 @@
+## Interface: 50400
+## Title: ArenaPlates
+## Version: 0.4
+## Author: Spyro
+## Notes: Shows the ArenaID number of arena enemy players on their nameplates
+
+ArenaPlates.lua
